@@ -1,4 +1,4 @@
-# MPV_IPC
+# MPV JSON based IPC server communication in C#
 
 ## Usage
 
